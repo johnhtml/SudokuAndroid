@@ -1,9 +1,7 @@
 package com.bracketcove.graphsudoku
 
-import com.bracketcove.graphsudoku.computationlogic.*
-import com.bracketcove.graphsudoku.domain.*
-import com.bracketcove.graphsudoku.domain.UserStatistics
-import com.bracketcove.graphsudoku.ui.newgame.NewGameLogic
+import com.johnhtml.graphsudoku.computationlogic.*
+import com.johnhtml.graphsudoku.domain.*
 import org.junit.Test
 import java.util.*
 import kotlin.collections.LinkedHashMap
